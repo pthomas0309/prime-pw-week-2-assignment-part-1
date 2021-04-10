@@ -17,7 +17,7 @@ console.log( 'My name is ' + fullName + ', and I think ' + luckyNumber + ' is a 
 // 7 - Create a variable named `adventurous` and set it to a boolean value (true or false)
 let adventurous = true;
 // 8 - Create a variable named `food`, and set its value to a string of your favorite food
-
+let food = 'Chicken Couscous'
 // 9 - Create a variable called `pets` and set it to the value of the number of pets you have
 
 // 10 - Create a variable called `friendsPets` and assign it the value of the number of pets your friend has
