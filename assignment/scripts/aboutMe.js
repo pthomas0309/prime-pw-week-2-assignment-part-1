@@ -25,11 +25,15 @@ let friendsPets = 1;
 // 11 - Add two pets to your `pets` variable
 pets = pets + 2;
 // 12 - Create a constant variable called `allowedPets` and set it to a number value of your choice
-
+let allowedPets = 2;
 // 13 - Create a conditional: if adventurous is true, console log "Adventures are great!",
 // if it's not true, console log "How about we stay home?"
-
-
+if ( adventure == true ) {
+  console.log( 'Adventures are great!' );
+}
+else {
+  console.log( 'How about we stay home?' );
+}
 // 14 - Create a compound conditional: if luckyNumber is 2 and adventurous is true,
 // console log "Roll the dice!"
 
