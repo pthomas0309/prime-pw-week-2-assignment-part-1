@@ -73,5 +73,15 @@ else if ( pets < friendsPets ) {
   console.log( 'My friend has more pets than me, with a total of: ' + mostPets );
 }
 // 17 - Rewrite question 16 with a `switch` statement. You'll need to do research!
+mostPets = 3;
+switch ( mostPets ) {
+  case 1:
+    console.log( 'My friend has more pets than me' );
+    break;
+  case 3:
+    console.log( 'I have more pets than my friend' );
+  default:
 
+}
 // 18 -- Rewrite question 13 with a `ternary` operator. You'll need to do research!
+adventurous = false ? console.log( 'Adventures are great!' ) : console.log( 'How about we stay home?' )
