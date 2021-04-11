@@ -57,12 +57,13 @@ else {
   console.log( 'Oh no, I have too many pets!' );
 }
 // STRETCH GOALS:
-let mostPets = undefined;
+
 // 16 - Make a variable called `mostPets` and a conditional that
 // correctly checks the `pets` and `friendsPets` variables, and
 // assigns the highest value to `mostPets`. There's several possibilities --
 // be sure to think through all the scenarios.
 // console.log `mostPets` after the conditional has run.
+let mostPets = undefined;
 if ( pets > friendsPets ) {
   mostPets = pets
   console.log( 'I have more pets than my friend, with a total of: ' + mostPets );
