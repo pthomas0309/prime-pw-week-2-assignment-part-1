@@ -57,60 +57,37 @@ Check in your repo, then turn in your work via the <a target="_blank" href="http
 
 _Duration: 12 Hour Sprint_
 
-Directly above this is how long it took you to develop the project. Your project description goes here. What problem did you solve? How did you solve it? 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam at massa in faucibus. Etiam volutpat, risus non mollis convallis, velit nisi pulvinar mi, eu faucibus orci nisi eget nibh. Integer a velit pretium, volutpat arcu eleifend, fringilla elit. Cras erat sapien, convallis venenatis tellus vitae, feugiat dictum felis.
-
-Suspendisse euismod volutpat aliquet. Maecenas vulputate mauris in pellentesque facilisis. Phasellus varius malesuada semper. Cras sollicitudin diam mollis maximus aliquam.
-
-To see the fully functional site, please visit: [DEPLOYED VERSION OF APP](www.heroku.com)
+This project uses Javascript to write messages to the console and practice string concatenation. It also features different types of conditionals such as if/then statements, switch statements, and ternary operators.
 
 ## Screen Shot
 
-Include one or two screen shots of your project here (optional). Remove if unused.
+![Console outputting sentences based on the values of Javascript variables](assignment/screenshots/Screen%20Shot%202021-10-26%20at%208.41.20%20PM.png)
 
 ### Prerequisites
 
 Link to software that is required to install the app (e.g. node).
 
-- [Node.js](https://nodejs.org/en/)
-- List other prerequisites here
+- Code editor of your choice
+- Web Browser
 
 ## Installation
 
-How do you get your application up and running? This is a step by step list for how another developer could get this project up and running. The good target audience in terms of knowledge, would be a fellow Primer from another cohort being able to spin up this project. Note that you do not need a paragraph here to intro Installation. It should be step-by-step.
-
-If your application has secret keys (for example --  Twilio), make sure you tell them how to set that up, both in getting the key and then what to call it in the `.env` file.
-
-1. Create a database named `your database name`,
-2. The queries in the `tables.sql` file are set up to create all the necessary tables and populate the needed data to allow the application to run correctly. The project is built on [Postgres](https://www.postgresql.org/download/), so you will need to make sure to have that installed. We recommend using Postico to run those queries as that was used to create the queries, 
-3. Open up your editor of choice and run an `npm install`
-4. Run `npm run server` in your terminal
-5. Run `npm run client` in your terminal
-6. The `npm run client` command will open up a new browser tab for you!
+1. Download files.
+2. Open the index.html file in the web browser.
+3. Open the browser console to see the messages printed as well as changes the values of the variables to have different messages printed to the console.
 
 ## Usage
-How does someone use this application? Tell a user story here.
 
-1. xxx
-2. xxx
-3. xxx
-4. xxx
-5. xxx
-6. xxx
-
+1. This project primarily utilizes the browser console, so to view any functionality the browser console must be open.
+2. The messages printed to the console by adjusting the values of certain variables.
 
 ## Built With
 
-List technologies and frameworks here
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
-_Note, include this only if you have a license file. GitHub will generate one for you if you want!_
+HTML
+Javascript
 
 ## Acknowledgement
-Thanks to [Prime Digital Academy](www.primeacademy.io) who equipped and helped me to make this application a reality. (Thank your people)
+Thanks to the friends and family that supported me as I learned new skills and [Prime Digital Academy](www.primeacademy.io) who equipped and helped me to make this application a reality.
 
 ## Support
-If you have suggestions or issues, please email me at [youremail@whatever.com](www.google.com)
+If you have suggestions or issues, please email me at [preston.thomas355@gmail.com](www.google.com)
